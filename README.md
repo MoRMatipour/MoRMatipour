@@ -35,5 +35,5 @@ Welcome to my portfolio — a collection of projects where I apply **SQL, Python
 
 ## 👋 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/matipour)
+- [LinkedIn](https://www.linkedin.com/in/reza-matipour-85aa00237/)
 - [GitHub](https://github.com/MoRMatipour)
