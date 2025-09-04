@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Reza
+# 👋 Hi, I'm Reza
 
 **Business Intelligence Developer | Data Analyst**
 with expertise in **data analysis, reporting, query optimization, database design, and data modeling**.
