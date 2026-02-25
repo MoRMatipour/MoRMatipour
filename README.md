@@ -12,7 +12,7 @@ I specialize in transforming raw data into **actionable business insights** thro
 
 ---
 
-## 📚 Projects
+## Projects
 
 Welcome to my portfolio — a collection of projects where I apply **SQL, Python, and BI tools** to solve real-world data problems.
 
@@ -24,7 +24,7 @@ Welcome to my portfolio — a collection of projects where I apply **SQL, Python
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Languages** → SQL, Python
 - **Databases** → Google BigQuery, PostgreSQL, MySQL
@@ -33,7 +33,7 @@ Welcome to my portfolio — a collection of projects where I apply **SQL, Python
 
 ---
 
-## 👋 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/reza-matipour-85aa00237/)
 - [GitHub](https://github.com/MoRMatipour)
